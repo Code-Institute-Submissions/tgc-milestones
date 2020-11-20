@@ -1,4 +1,4 @@
-/*-- Body Configuration --*/
+/*=========== Body Configuration ============*/
 body {
   overflow-x: hidden;
   font-family: 'Montserrat', sans-serif;
@@ -106,10 +106,6 @@ body {
 }
 
 
-
-
-
-
 /*============= FOOTER =============*/
 
 footer {
@@ -184,7 +180,7 @@ footer .svg-inline--fa:hover {
 }
 
 
-/*-- Preventing Potential Bootstrap Mobile Gutter Problems --*/
+/*== Preventing Potential Bootstrap Mobile Gutter Problems ==*/
 .row, .container-fluid {
   margin-left: 0px !important;
   margin-right: 0px !important;
