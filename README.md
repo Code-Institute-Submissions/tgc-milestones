@@ -23,7 +23,7 @@ Site owner&#39;s goal: Present the benefits of the Arts and to encourage especia
 
 The website can be found in my github repository: [https://baguamaster.github.io/tgc-milestones/](https://baguamaster.github.io/tgc-milestones/)
 
-![](img/readme/1.jpg)
+![](img/readme/1.PNG)
 
 # **Website Purpose**
 
