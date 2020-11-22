@@ -122,7 +122,7 @@ Information required on the website to fulfil the content requirements.
 5. Street-survival centric images
 6. Women in self defence
 
-**Content Structure (Sitemap)**
+**Content Structure and sitemap**
 
 The website will be arranged in a simple order:
 
@@ -130,7 +130,7 @@ Home Page \&gt; About \&gt; Karate \&gt; Judo \&gt; Aikijutsu \&gt; Contact Us
 
 Each page has its own hyperlinks relevant to it
 
-![](RackMultipart20201122-4-g9p7qy_html_ef923780b09e7eff.png)
+![](img/readme/2.jpg)
 
 1. **Home Page:**
   - It opens with a &quot;bang&quot;, putting 3 strong images of the 3 martial arts in a large carousel spanning the whole visual width.
@@ -211,10 +211,6 @@ Each page has its own hyperlinks relevant to it
 - Footer will include a links to social media
 - The main content section will display content related to the relevant subject matter
 
-**Site Map**
-
-![](RackMultipart20201122-4-g9p7qy_html_3ba0bdd3d89a4790.png)
-
 **Navigation Elements**
 
 Responsiveness and utility courtesy of Bootstrap…
@@ -267,7 +263,8 @@ Copy is written in an easy-going style, and aims to educate the reader on the un
 
 The site is meant to be responsive to many devices, from desktop and laptop screen to tablets and smart mobile phones. It can be viewed in both portrait and landscape orientation. The breakpoints are usually half of the visual range in this instance.
 
-![](RackMultipart20201122-4-g9p7qy_html_21e3fa3f7d3105f1.png)
+![](img/readme/4.jpg)
+
 
 **Consistency of design and messaging**
 
@@ -317,7 +314,8 @@ The contact form in the Contact Us page is meant to facilitate either email, voi
   - Judo.html – Same 2 errors
   - Contact us.html – Same 2 errors
 
-![](RackMultipart20201122-4-g9p7qy_html_a31ee77031d6bc23.png)
+![](img/readme/5.jpg)
+
 
 - 3 pages checked using W3C Link Checker ([https://validator.w3.org/checklink](https://validator.w3.org/checklink))
   - index.html – 1 non-critical warning related to the facebook link.
